@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoelMann
-- 👀 Currently I work as a Sie Reliability Engineer
+- 👀 Currently I work as a Site Reliability Engineer
 - 🌱 Things I work on - currently needing to organize this. 
 - 💞️ I’m looking to collaborate on projects that make the world a better place - Such as TOR, OpenAPS, and tools used by people everyday.
 - 📫 How to reach me - LinkedIn is best, it helps with the bot spam. 
